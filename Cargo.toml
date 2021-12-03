@@ -5,3 +5,4 @@ edition = "2018"
 authors = ["Pikkel/tty3 <sopport@femboycock.club>"]
 
 [dependencies]
+hyper = "0.14.15"
