@@ -1,0 +1,7 @@
+[package]
+name = "closet"
+version = "0.1.0"
+edition = "2018"
+authors = ["Pikkel/tty3 <sopport@femboycock.club>"]
+
+[dependencies]
