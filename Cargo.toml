@@ -5,4 +5,6 @@ edition = "2018"
 authors = ["Pikkel/tty3 <sopport@femboycock.club>"]
 
 [dependencies]
-hyper = "0.14.15"
+tokio = { version = "1.14.0", features = ["full"] }
+warp = "0.3.2"
+
